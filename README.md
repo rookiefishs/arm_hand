@@ -15,7 +15,7 @@
 
 ### 机械臂结构
 
-![机械臂结构](./image.png)
+![机械臂结构](https://cdn.z.wiki/autoupload/20240907/mABl/1202X973/image.png)
 
 ### 使用 Threejs 动态渲染机械臂
 
